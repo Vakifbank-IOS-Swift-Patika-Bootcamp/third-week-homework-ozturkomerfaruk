@@ -67,3 +67,14 @@ Kolay gelsin :)
 HAVE A GOOD DAY..
 
 Kaan YILDIRIM
+
+
+----------------
+
+# 1. Soru
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56068905/202732811-4f546a9a-3ea3-4428-84c9-29ee15a61f07.gif)
+
+# 2. Soru
+
+---
