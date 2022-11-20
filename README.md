@@ -3,6 +3,7 @@
 * [1. Soru Açıklamaları](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk/blob/main/README.md#1-soru)
 * [2. Soru Açıklamaları](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk/blob/main/README.md#2-soru)
 * [3. Soru Açıklamaları](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk/blob/main/README.md#3-soru)
+* [4. Soru Açıklamaları](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk#%C3%B6dev-hakk%C4%B1nda-birka%C3%A7-s%C3%B6z)
 
 ----
 
