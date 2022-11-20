@@ -75,6 +75,16 @@ Kaan YILDIRIM
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56068905/202732811-4f546a9a-3ea3-4428-84c9-29ee15a61f07.gif)
 
+---
+
 # 2. Soru
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56068905/202899463-efd829c9-c6ef-4505-9dfd-1e5ddf310ddc.gif)
+
 ---
+
+# 3. Soru
+
+
+---
+
