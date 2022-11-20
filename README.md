@@ -1,4 +1,10 @@
 # Third-Week-Homework
+
+* [1. Soru Açıklamaları](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk/blob/main/README.md#1-soru)
+* [2. Soru Açıklamaları](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk/blob/main/README.md#2-soru)
+* [3. Soru Açıklamaları](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk/blob/main/README.md#3-soru)
+
+
 1- Şirket Playground Yazılımının Xcode ile projelendirilmesi yapılacaktır. Aşağıdaki özelliklerin bulunması gerekmektedir:
 --
 <pre>
@@ -74,6 +80,38 @@ Kaan YILDIRIM
 # 1. Soru
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56068905/202732811-4f546a9a-3ea3-4428-84c9-29ee15a61f07.gif)
+
+## Kodlara ulaşmak için [tıklayınız](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-ozturkomerfaruk/tree/main/Hw3-1/Hw3-1)
+
+### Şirket Hakkında Sayfası
+
+<img width="300" height= "600" src= "https://user-images.githubusercontent.com/56068905/202904226-2128ea14-c96c-4de7-a831-111d656a6310.png"/>
+
+Bir ImageView altında şirket logosu ve kuruluş tarihi bulunmaktadır. Bu şirketin bütçesinin gelir ve giderlerinin hesaplandığı ve çalışanlarının maaşlarının ödendiği sayfadır. İlk açılış ekranı bu sayfa olmaktadır.
+
+Diğer sayfalara gitmek için Navigation Controller'dan yararlanarak butonlar oluşturdum. Yeni bir çalışan ekleme ve çalışanları görmek için bu butonlara tıklamak gerekir.
+
+Bütçenin negatife düşmesi durumunda, bir uyarı ekranı "Alert" açılmaktadır.
+
+### Çalışan Ekleme Sayfası
+
+<img width="300" height= "600" src= "https://user-images.githubusercontent.com/56068905/202904421-934634b9-024c-4875-95f6-2a0227be007e.png"/>
+
+Çalışan ekleme sayfasında çalışan bilgileri girilmektedir. Bu kapsamda, isim, yaş, evlilik durumu, yaşadığı şehir, memleketi ve çalışanın statüsü bilgilerini içermektedir.
+
+Bilgiler girildikten sonra maaşı belli olmaktadır. Eğer çalışan evliyse fazladan 2500 TL para verilmektedir. Ayrıca çalışanın statüsüne göre maaşında katlanma olmaktadır. Başlangıç seviyesindeyse maaşı 5 bin, orta seviye ise 10 bin ve eğer uzman bir çalışansa maaşı 20 bin lira olmaktadır.
+
+### Çalışan Listeleme Sayfası
+
+<img width="300" height= "600" src= "https://user-images.githubusercontent.com/56068905/202904820-b87c0a29-7371-447d-8175-1e6dbb4778fe.png"/>
+
+Çalışanların listelendiği ekrandır.
+
+### Çalışan Detay Sayfası
+
+<img width="300" height= "600" src= "https://user-images.githubusercontent.com/56068905/202904867-f5612da2-86de-44ce-9016-231a74ffa7bd.png"/>
+
+Çalışanların bilgilerinin listelendiği ekrandır. Bu ekran sayfasına ulaşmak için çalışanların listelendiği sayfada, çalışana tıklama gerçekleştirildiğinde açılmaktadır.
 
 ---
 
